@@ -1,0 +1,64 @@
+html {
+  background-color: #000000;
+  text-align: center;
+}
+
+
+h1 {
+  font-weight: bold;
+  font-size: 8rem;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'Lobster', cursive;
+  color: #ffffff;
+}
+h2{
+  font-weight: normal;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Lobster', serif;
+  line-height: 1.5;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+ol {
+  list-style-type: circle;
+  padding: 0;
+  line-height: 1.5;
+  color:#de00ff;
+  font-size:1.5rem;
+}
+
+dl {
+  font-family: sans-serif;
+  color: lightgrey;
+  line-height: 1.5rem;
+}
+p {
+  color: white;
+  text-align: center;
+}
+
+blockquote{
+  color: grey;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+
+}
+
+a {
+  color: #de00ff;
+}
+
+a:hover {
+  color: white;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  color: grey;
+}
